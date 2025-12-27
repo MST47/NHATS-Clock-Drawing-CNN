@@ -105,6 +105,6 @@ All outputs are saved under the `outputs/` directory.
 
 ## 👤 Author
 
-**Muhammad Saqib**  
+**Aqib**  
 AI / ML Researcher  
 Medical Imaging & Multimodal Learning
